@@ -1,0 +1,13 @@
+.result-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 26px 24px;
+  border-radius: 10px;
+}
+
+@media (min-width: 769px) {
+  .result-container {
+    padding: 38px 32px 36px;
+    font-size: 48px;
+  }
+}

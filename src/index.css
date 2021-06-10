@@ -3,10 +3,10 @@
   --theme-1--text-color: #FFF;
   --theme-1--container-bg-color: #181F33;
   --theme-1--alt-container-bg-color: #242D44;
-  --theme-1--accent-1-color: #D03F2F;
+  --theme-1--accent-1-bg-color: #D03F2F;
   --theme-1--accent-1-active-color: #F96B5B;
   --theme-1--accent-1-shadow-color: #93261A;
-  --theme-1--accent-2-color: #647198;
+  --theme-1--accent-2-bg-color: #647198;
   --theme-1--accent-2-active-color: #A2B2E1;
   --theme-1--accent-2-shadow-color: #414E73;
   --theme-1--button-bg-color: #EAE3DC;
@@ -18,10 +18,10 @@
   --theme-2--text-color: #36362C;
   --theme-2--container-bg-color: #EEEEEE;
   --theme-2--alt-container-bg-color: #D2CDCD;
-  --theme-2--accent-1-color: #C85402;
+  --theme-2--accent-1-bg-color: #C85402;
   --theme-2--accent-1-active-color: #FF8A38;
   --theme-2--accent-1-shadow-color: #873901;
-  --theme-2--accent-2-color: #378187;
+  --theme-2--accent-2-bg-color: #378187;
   --theme-2--accent-2-active-color: #62B5BC;
   --theme-2--accent-2-shadow-color: #1B6066;
   --theme-2--button-bg-color: #E5E4E1;
@@ -33,10 +33,10 @@
   --theme-3--text-color: #FFE53D;
   --theme-3--container-bg-color: #1E0936;
   --theme-3--alt-container-bg-color: #1E0936;
-  --theme-3--accent-1-color: #00DED0;
+  --theme-3--accent-1-bg-color: #00DED0;
   --theme-3--accent-1-active-color: #93FFF8;
   --theme-3--accent-1-shadow-color: #6CF9F1;
-  --theme-3--accent-2-color: #56077C;
+  --theme-3--accent-2-bg-color: #56077C;
   --theme-3--accent-2-active-color: #8631AF;
   --theme-3--accent-2-shadow-color: #BE15F4;
   --theme-3--button-bg-color: #331C4D;

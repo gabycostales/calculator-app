@@ -1,5 +1,6 @@
 import './App.css';
 import {useSelector} from 'react-redux';
+import Calculator from './calculator/Calculator';
 import ThemeToggle from './theme-toggle/ThemeToggle';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <h1>calc</h1>
           <ThemeToggle />
         </div>
+        <Calculator />
       </div>
     </div>
   );

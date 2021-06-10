@@ -1,0 +1,15 @@
+.number-key {
+  width: 60px;
+  height: 64px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 769px) {
+  .number-key {
+    width: 101px;
+    height: 64px;
+  }
+}

@@ -1,0 +1,30 @@
+.calculator {
+  margin-top: 32px;
+}
+
+.calculator-container {
+  margin-top: 24px;
+  padding: 24px;
+}
+
+.calculator-grid {
+  display: grid;
+  gap: 13px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.actions-row {
+  margin-top: 13px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.actions-row .number-key {
+  width: 133px;
+}
+
+@media (min-width: 769px) {
+  .calculator-container {
+    padding: 32px 30px;
+  }
+}

@@ -29,7 +29,7 @@ function ThemeToggle() {
             className="theme-toggle__radio" 
             style={{
               transform: `translateX(${translateX}px)`,
-              backgroundColor: `var(${themePrefix}--accent-1-color)`
+              backgroundColor: `var(${themePrefix}--accent-1-bg-color)`
             }}
           />
         </button>
