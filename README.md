@@ -1,5 +1,8 @@
 # Frontend Mentor - Calculator app solution
 
+**Please Note: This is still in progress! I'm not totally done yet.** 
+
+
 This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). 
 
 I used this challenge to start learning React and Redux.
