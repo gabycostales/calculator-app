@@ -2,7 +2,6 @@ import './NumberKey.css';
 // import PropTypes from 'prop-types';
 import {useSelector} from 'react-redux';
 
-
 function NumberKey({text, buttonStyleKey = 'button'}) {
   const themeNumber = useSelector((state) => state.theme.number);
   const themePrefix = `--theme-${themeNumber}`;

@@ -5,6 +5,7 @@
 .calculator-container {
   margin-top: 24px;
   padding: 24px;
+  border-radius: 10px;
 }
 
 .calculator-grid {
