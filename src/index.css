@@ -1,10 +1,68 @@
-body {
+:root {
+  --theme-1--page-bg-color: #3A4663;
+  --theme-1--text-color: #FFF;
+  --theme-1--container-bg-color: #181F33;
+  --theme-1--alt-container-bg-color: #242D44;
+  --theme-1--accent-1-color: #D03F2F;
+  --theme-1--accent-1-active-color: #F96B5B;
+  --theme-1--accent-1-shadow-color: #93261A;
+  --theme-1--accent-2-color: #647198;
+  --theme-1--accent-2-active-color: #A2B2E1;
+  --theme-1--accent-2-shadow-color: #414E73;
+  --theme-1--button-bg-color: #EAE3DC;
+  --theme-1--button-bg-active-color: #FFFFFE;
+  --theme-1--button-shadow-color: #B3A497;
+  --theme-1--button-text-color: #434A59;
+
+  --theme-2--page-bg-color: #F2F2F2;
+  --theme-2--text-color: #36362C;
+  --theme-2--container-bg-color: #EEEEEE;
+  --theme-2--alt-container-bg-color: #D2CDCD;
+  --theme-2--accent-1-color: #C85402;
+  --theme-2--accent-1-active-color: #FF8A38;
+  --theme-2--accent-1-shadow-color: #873901;
+  --theme-2--accent-2-color: #378187;
+  --theme-2--accent-2-active-color: #62B5BC;
+  --theme-2--accent-2-shadow-color: #1B6066;
+  --theme-2--button-bg-color: #E5E4E1;
+  --theme-2--button-bg-active-color: #FFFFFF;
+  --theme-2--button-shadow-color: #A79E91;
+  --theme-2--button-text-color: #36362C;
+
+  --theme-3--page-bg-color: #17062A;
+  --theme-3--text-color: #FFE53D;
+  --theme-3--container-bg-color: #1E0936;
+  --theme-3--alt-container-bg-color: #1E0936;
+  --theme-3--accent-1-color: #00DED0;
+  --theme-3--accent-1-active-color: #93FFF8;
+  --theme-3--accent-1-shadow-color: #6CF9F1;
+  --theme-3--accent-2-color: #56077C;
+  --theme-3--accent-2-active-color: #8631AF;
+  --theme-3--accent-2-shadow-color: #BE15F4;
+  --theme-3--button-bg-color: #331C4D;
+  --theme-3--button-bg-active-color: #6C34AC;
+  --theme-3--button-shadow-color: #881C9E;
+  --theme-3--button-text-color: #FFE53D;
+}
+
+html, body, .root {
+  width: 100%;
+  height: 100%;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding: 0;
+}
+
+body {
+  font-family: 'Spartan', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+  font-size: 32px;
 }
 
 code {
