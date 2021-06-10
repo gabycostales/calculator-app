@@ -2,7 +2,7 @@
 
 This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). 
 
-I used this challenge to start learning React!
+I used this challenge to start learning React and Redux.
 
 ## Table of contents
 
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### What I learned about
 
-TLDR: React! 🎉 
+TLDR: React and Redux! 🎉 
 
 - Creating a User Interface with React's createElement API
 - Using JSX with React
@@ -52,6 +52,7 @@ TLDR: React! 🎉
 - [ ] Add Web Vitals tracking
 - [ ] Make it a PWA
 - [ ] Add Typescript
+- [ ] Animate button on press (remove/add back box-shadow)
 
 ## Author
 
